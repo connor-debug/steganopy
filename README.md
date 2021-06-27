@@ -1,7 +1,6 @@
 # stenopy
 
-###Based on Stepic (2007 Lenny Domnitser)####
-
+Based on Stepic (Lenny Domnitser)
 
 encode_imdata(imdata, data)
 	recieves arbitrary pixels and encodes data
