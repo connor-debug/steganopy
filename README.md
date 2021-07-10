@@ -1,4 +1,4 @@
-# stenopy
+# steganopy
 
 Based on Stepic (Lenny Domnitser)
 
